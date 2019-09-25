@@ -1,0 +1,21 @@
+.business {
+	display: inline-block;
+	border-radius: 3px 0 0 3px;
+	text-align: center;
+	display: inline-block;
+    border: 1px solid #eaeaea;
+    border-right: none;
+    padding: 2px 8px;
+    margin-right: -3px;
+}
+.allofthem {
+	    list-style: none;
+    text-align: center;
+    margin-bottom: 35px;
+    padding-left: 0;
+    font-weight: 300;
+    font-size: 13px;
+    cursor: pointer;
+    display: inline-block;
+    width: 100%;
+}

@@ -1,0 +1,68 @@
+
+
+@media (min-width: 1200px){
+.container {
+    width: 1170px;
+}}
+@media (min-width: 992px){
+.container {
+    width: 970px;
+}}
+@media (min-width: 768px){
+.container {
+    width: 750px;
+}}
+@media (min-width: 768px){
+.col-sm-6, .col-md-6 .col-lg-6 .col-xl-6 {
+    width: 50%;
+}}
+@media (min-width: 768px){
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+    float: left;
+}
+.col-xs-12 {
+    width: 100%;
+}
+@media (min-width: 768px){
+.navbar {
+    border-radius: 4px;
+}}
+@media (min-width: 768px){
+.navbar-toggle {
+    display: none;
+}}
+@media (min-width: 768px){
+.col-sm-3 .col-md-3 .col-lg-3 .col-xl-3 {
+    width: 25%;
+}}
+@media (max-width: 768px) {
+	.leftimg {
+	margin-top: 14px;
+	max-height: 40px;
+	}
+}
+@media only screen and (max-width: 768px)  {
+	#right {
+		display: none!important;
+	}
+}
+
+@media (min-width: 768px) {
+.left {
+	width: 50%;
+	float: left;
+	}}
+@media (min-width: 768px) {
+	.right {
+		width: 50%;
+		float: right;
+	}
+}
+@media (min-width: 768px) {
+	.dropdown {
+		float: left;
+	}
+}
+@media (max-width: 768px) {
+
+}
